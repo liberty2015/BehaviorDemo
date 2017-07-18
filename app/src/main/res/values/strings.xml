@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TitleBarBehavior</string>
+    <string name="txt">电视动画《境界的彼方》改编自鸟居原作的同名轻小说，
+        由石立太一监督率领《日常》原班制作人马打造。故事描述了有特殊能力的异界士少女
+        栗山未来与稀有存在的半妖神原秋人相遇以后发生的一系列不平凡的故事。2013年4月3日，
+        在京都动画旗下KA Esuma文库在官网上，正式宣布《境界的彼方》动画化企划进行中的消息[1]  。
+        动画官网于2013年8月1日上线，并且每天更新一张带有数字的图片进行倒计时，直到8月5日倒计
+        时完毕动画官网方正式公开，此时《境界的彼方》正式确认将以TV动画的形式与观众见面[2-3]  。
+        2013年10月2日起在TOKYO MX首播，全12话。剧场版《境界的彼方 -I WILL BE HERE-》
+        分为“过去篇”和“未来篇”，分别于2015年3月14日和2015年4月25日在日本上映。</string>
+    <string name="titleBarbehavior">com.liberty.titlebarbehavior.behavior.GradualTitleBehavior</string>
+</resources>
